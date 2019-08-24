@@ -12,3 +12,5 @@ Note: When a character in the same key repeats more than once consecutively,
  Leave a non-digit character in between.
 
 Example : 9999-666-666 	-> z- o- o
+
+Enter 'e' to exit
